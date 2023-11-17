@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "rootDir": "./src/",
+    "outDir": "./dist/",
+    "strict": true,
+    "target": "es2022",
+    "module": "es2022",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "moduleResolution": "node",
+  },
+  "exclude": ["./*.ts", "./test"],
+}
