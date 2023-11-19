@@ -207,4 +207,5 @@ export {
   getOptimized,
   getPacked,
   getWastedBlocks,
+  isAtomic,
 };
